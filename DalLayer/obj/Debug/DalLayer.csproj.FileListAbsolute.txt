@@ -1,0 +1,42 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\bin\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\bin\Debug\DalLayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\obj\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\DalLayer\obj\Debug\DalLayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb
+H:\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+H:\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+H:\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+H:\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+H:\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+H:\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+H:\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+C:\Users\S.computer\Desktop\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb
+D:\APL130225\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.dll
+D:\APL130225\CarHomework - Copy\DalLayer\bin\Debug\DalLayer.pdb
+D:\APL130225\CarHomework - Copy\DalLayer\bin\Debug\Entity.dll
+D:\APL130225\CarHomework - Copy\DalLayer\bin\Debug\Entity.pdb
+D:\APL130225\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.csprojResolveAssemblyReference.cache
+D:\APL130225\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.dll
+D:\APL130225\CarHomework - Copy\DalLayer\obj\Debug\DalLayer.pdb

@@ -1,0 +1,24 @@
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\obj\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework\Entity\obj\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
+C:\Users\Pinky\Documents\Visual Studio 2010\Projects\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+H:\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+H:\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+H:\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+H:\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+H:\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+C:\Users\S.computer\Desktop\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\S.computer\Desktop\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+C:\Users\S.computer\Desktop\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\Entity\bin\Debug\Entity.dll
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\Entity\bin\Debug\Entity.pdb
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\Entity\obj\Debug\Entity.dll
+C:\Users\S.computer\Desktop\APL(13.4.15)\CarHomework - Copy\Entity\obj\Debug\Entity.pdb
